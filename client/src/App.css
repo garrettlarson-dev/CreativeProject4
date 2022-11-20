@@ -1,0 +1,14 @@
+.footerLink {
+    display: block;
+    padding: 20px;
+    margin-top: 150px;
+    color: #444;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    transition: 100ms;
+}
+.footerLink:hover {
+    color: #fff;
+    transition: 100ms;
+}
